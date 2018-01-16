@@ -1,3 +1,5 @@
+Seesaw 是 Google 开源的一个基于 Linux 的负载均衡系统。Seesaw 包含基本的负载均衡特性，同时支持一些高级的功能，诸如：anycast, Direct Server Return (DSR), 支持多个 VLANs 和集中式配置。同时其设计的宗旨是易于维护
+
 # Seesaw v2
 
 [![GoDoc](https://godoc.org/github.com/google/seesaw?status.svg)](https://godoc.org/github.com/google/seesaw)
